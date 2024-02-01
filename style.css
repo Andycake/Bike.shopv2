@@ -267,12 +267,14 @@
   background-color: #B0926A;
   color: #EBD9B4;
   width: 800px;
-  height: 1050px;
+  height: 900px;
   margin-bottom: 100px;
   border-radius: 30px;
-  margin-left: 250px;
-  font-size: 30px;
+  margin-top:500px;
+  font-size: 20px;
   text-align: center;
+  margin-left: 1000px;
+
 }
 
 .map{
@@ -1004,7 +1006,7 @@
   margin-top: 100px;
   font-size: 20px;
   text-align: center;
-  margin-left: -5px;
+  margin-left: 500px;
 }
 
     /* malaking screen ahead*/
